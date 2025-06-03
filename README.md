@@ -8,17 +8,17 @@
 - Crie um projeto com Spring, adotando todas as dependências.
 - Crie um banco de dados MySQL chamado dbturma
 - A entidade aluno deve ter:
-      -Usuario
-      -Senha      
-      -Nome
-      -Curso
-      -Email
-      -Telefone
-      -Status (cursando, trancado ou formado)
-      -Disciplina
-      -Nota1
-      -Nota2
-      -Media
+  * Usuario;
+  * Senha;
+  * Nome;
+  * Curso;
+  * Email;
+  * Telefone;
+  * Status (cursando, trancado ou formado);
+  * Disciplina;
+  * Nota1;
+  * Nota2;
+  * Media;
 - Faça com que o sistema permita cadastrar, alterar, consultar, deletar cada usuário.
   
 ## Autores
